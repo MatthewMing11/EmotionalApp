@@ -35,5 +35,9 @@ Ctrl+D
 ```python
 python3 main.py
 ```
+# Note:
+Multiple usage of the interface or repeatedly pressing the samples will cause the program to stall and crash.
+Give the program time after each parsing as it takes time for results to be drawn and computed.
+
 # Pitfalls
 Due to the scarcity of data on emotional connotation in language, we were unable to fully interpret emotion based on data.

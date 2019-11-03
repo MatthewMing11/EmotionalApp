@@ -1,5 +1,6 @@
-# EmotionalApp
+# Emotion Detection App
 This app was made by Shayan Chowdhury, Henry He, Matthew Ming, and Larry Wong with the help of our Google mentor, Alex Liu.
+Its purpose is to assign an emotion to spoken word or written text.
 
 # Roles
 * Matthew Ming provided the background interface made in Kivy.
